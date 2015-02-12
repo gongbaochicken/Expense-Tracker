@@ -1,13 +1,10 @@
 # Expense-Tracker
-A user-friendly software for personal financial management in C++. 
-
 Developers: Zhuo Jia(gongbaochicken), Jingxiong Huang, Guoshan Liu
-
 Credit preservation: Duke University, ECE 551 Course  [source code is modifying and will update soon]
 
 Expense Tracker is a user-friendly software for personal financial management. Features within Expense Tracker are well integrated. These main functions and features include balance tracking, category labeling, search bar, data visualization and smart shopping list. To enhance user experience, Expense Tracker can generate weekly and monthly spending reports with QR codes that can be easily stored and shared.
 
- ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/cat.icns)
+ ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/logo.bmp)
  
 This software is a course project for ECE 551:  Program, Data Structure and Algorithm in C++. For this reason, Expense Tracker is implemented in C++. The GUI is developed using Qt Creator integrated development environment (IDE) with standard libraries.
 
@@ -18,7 +15,7 @@ This software is a course project for ECE 551:  Program, Data Structure and Algo
 + Access payments recorded on a certain day, by clicking on the date on calendar.
 
 ###Category Labeling
- ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/11.png)
+ ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/11.bmp)
 + Specify amount and label category of each income and expense, in order to better classify these items.
 + What if the user cannot find an appropriate category in the default list? Feel free to create a new option! 
 + Store all financial data in a CSV file. 
