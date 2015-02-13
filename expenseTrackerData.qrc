@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>resource/expense_data.csv</file>
+        <file>resource/income_data.csv</file>
+        <file>resource/shoppingList.csv</file>
+        <file>resource/budget.txt</file>
+        <file>resource/expense_labels.txt</file>
+        <file>resource/income_labels.txt</file>
+    </qresource>
+</RCC>
