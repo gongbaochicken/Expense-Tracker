@@ -1,6 +1,6 @@
 # Expense-Tracker
 #### Developers: Zhuo Jia(gongbaochicken), Jingxiong Huang, Guoshan Liu
-#### [source code stopped maintained, as this is just a final demo.]
+#### [The project stopped maintaining, as this is just a final demo of 1st semester in school.]
 
 Expense Tracker is a user-friendly software for personal financial management. Features within Expense Tracker are well integrated. These main functions and features include balance tracking, category labeling, search bar, data visualization and smart shopping list. To enhance user experience, Expense Tracker can generate weekly and monthly spending reports with QR codes that can be easily stored and shared.
 
