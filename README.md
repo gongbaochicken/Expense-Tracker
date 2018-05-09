@@ -1,6 +1,6 @@
 # Expense-Tracker
-####Developers: Zhuo Jia(gongbaochicken), Jingxiong Huang, Guoshan Liu
-####[source code is modifying and will update soon]
+#### Developers: Zhuo Jia(gongbaochicken), Jingxiong Huang, Guoshan Liu
+#### [source code stopped maintained, as this is just a final demo.]
 
 Expense Tracker is a user-friendly software for personal financial management. Features within Expense Tracker are well integrated. These main functions and features include balance tracking, category labeling, search bar, data visualization and smart shopping list. To enhance user experience, Expense Tracker can generate weekly and monthly spending reports with QR codes that can be easily stored and shared.
 
@@ -8,24 +8,24 @@ Expense Tracker is a user-friendly software for personal financial management. F
  
 This software is a course project for ECE 551:  Program, Data Structure and Algorithm in C++. For this reason, Expense Tracker is implemented in C++. The GUI is developed using Qt Creator integrated development environment (IDE) with standard libraries.
 
-#FEATURES & MERITS
-###Balance Tracking
+# FEATURES & MERITS
+### Balance Tracking
  ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/1.png)
 + Set user’s monthly expense target with ease, and the budget will automatically reset to zero at the beginning of each month. + Distinct monitor bar shows the percentage of up-to-date amount of expenditure over current month’s budget, as a reminder to save money.
 + Access payments recorded on a certain day, by clicking on the date on calendar.
 
-###Category Labeling
+### Category Labeling
  ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/11.bmp)
 + Specify amount and label category of each income and expense, in order to better classify these items.
 + What if the user cannot find an appropriate category in the default list? Feel free to create a new option! 
 + Store all financial data in a CSV file. 
 
-###Search Bar 
+### Search Bar 
  ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/2.png)
 + This feature provides users with a convenient way to locate and view specific items of expense and income. 
 + By searching for category or item name, users will see the transaction details they need displayed on the detail table.
 
-###Data Visualization 
+### Data Visualization 
  ![image](https://github.com/gongbaochicken/Expense-Tracker/raw/master/showcase_img/3.png)
 + Display a pie chart and a line chart displaying the user’s transaction data of the selected date. 
 + Users have multiple range options for transaction visualization, such as the transactions within the last 7 days, 30 days or the whole year. Another choice is to define a customized range to search for their transaction information.
